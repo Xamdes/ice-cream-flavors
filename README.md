@@ -24,7 +24,7 @@ HTML, CSS, Javascript, jQuery
 ## Installation
 Clone from:
 https://github.com/Xamdes/ice-cream-flavors.git
-https://github.com/Jean84646/ice-cream-flavors.git
+https://github.com/Jean84646/ice-cream-flavors-looping.git
 
 ## License
 
